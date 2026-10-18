@@ -1,0 +1,12 @@
+{
+  "name": "eris3",
+  "version": "0.1.0",
+  "description": "Eris 3.0 - Milestone 1: core, profile memory, identity, natural introductions",
+  "private": true,
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "engines": { "node": ">=18" }
+}
